@@ -1,4 +1,4 @@
-DROP DATABASE IF EXISTS Inventario;
+DROP DATABASE IF EXISTS inventech;
 CREATE DATABASE inventech CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci;
 USE Inventario;
 
