@@ -1,5 +1,5 @@
 DROP DATABASE IF EXISTS Inventario;
-CREATE DATABASE Inventario CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci;
+CREATE DATABASE inventech CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci;
 USE Inventario;
 
 CREATE TABLE Proveedor(
